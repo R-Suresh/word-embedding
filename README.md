@@ -8,4 +8,6 @@ Find my pretrained gensim word2vec models -<br>
 2. (500 dimentional word vectors) Replacing '\n' with "\<eos\>" in the PTB dataset [here](https://drive.google.com/open?id=1cEMID9g-k_sz-V6M1OKWY2-EU8Fighj_) 
 
 Find Google's pretrained word embeddings [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing).<br>
-Word of caution : You can only use the value of the word embeddings, cant train it
+Word of caution : You can only use the value of the word embeddings, cant train it<br>
+
+Also, my observation is that for smaller vocabulary fewer emdedding dimentions perform better and similary for larger models larger dimentions perform better.<br>However, I have also seen cases where for a vocab of say 5000 words 30 embedding dimentions are good enough
