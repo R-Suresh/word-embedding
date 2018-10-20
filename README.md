@@ -10,4 +10,4 @@ Find my pretrained gensim word2vec models -<br>
 Find Google's pretrained word embeddings [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing).<br>
 Word of caution : You can only use the value of the word embeddings, cant train it<br>
 
-Also, my observation is that for smaller vocabulary fewer emdedding dimentions perform better and similary for larger models larger dimentions perform better.<br>However, I have also seen cases where for a vocab of say 5000 words 30 embedding dimentions are good enough
+Also, my observation is that for a smaller vocabulary fewer emdedding dimentions perform well and similary for larger models, larger dimentions perform better.<br>However, I have also seen cases where for a vocab of say 5000 words 30 embedding dimentions are good enough
